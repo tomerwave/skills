@@ -1,111 +1,134 @@
 ---
 name: tech-observation-posts
-description: Create concise, high-signal LinkedIn posts from recent technology news by turning a concrete event into a broader human or industry observation. Use when the user wants timely post ideas, a draft in a sharp personal voice, help tightening an existing post, a sequence of related posts, or a matching image concept/prompt. The skill should browse for current facts, preserve factual nuance, avoid generic LinkedIn lessons, and favor short posts with one memorable idea and one strong final line.
+description: Create concise, opinionated LinkedIn posts from recent technology news, company announcements, incidents, research, or product changes. Use when the user wants to find timely post ideas, connect multiple industry moves into a broader pattern, draft or refine a post in a direct observational voice, choose a visual metaphor, or generate an image concept. Emphasize factual accuracy, a clear second-layer insight, short paragraph rhythm, and understated cinematic imagery rather than generic thought leadership.
 ---
 
 # Tech Observation Posts
 
-Turn current technology news into short personal-opinion posts that feel observed rather than manufactured.
+Turn a concrete technology event into a short personal observation with a broader truth underneath.
 
 ## Core workflow
 
-1. **Find the scoop**
-   - Browse for recent, verifiable technology events.
-   - Prefer primary sources, company statements, official incident reports, legislation, or reputable reporting.
-   - Confirm names, dates, quotes, scope, and important caveats.
-   - Never exaggerate the event for a better hook.
+1. **Verify the event before framing it.**
+   - Search current primary sources whenever the event is recent, disputed, or based on a specific announcement.
+   - Prefer the company announcement, official blog, status page, paper, filing, or regulator page.
+   - Separate confirmed facts from interpretation.
+   - Correct the user's premise gently when needed. Never preserve a stronger hook by overstating the facts.
 
-2. **Find the second story**
-   - Ask: what larger truth is hiding inside the literal event?
-   - Look for themes such as trust, endings, ownership, privacy, dependency, ambition, permission, attention, infrastructure, or control.
-   - The insight should work beyond the company or product in the headline.
+2. **Find the second story.**
+   Ask what the event reveals about one of these deeper tensions:
+   - output vs value
+   - speed vs maintainability
+   - openness vs control
+   - transparency vs attention
+   - convenience vs ownership
+   - capability vs governability
+   - detection vs recovery
+   - adoption vs infrastructure
+   - technically public vs socially private
+   - present completion vs future cost
 
-3. **Choose one opinion**
-   - Reduce the post to one sentence before drafting.
-   - Examples:
-     - “AI did not make everything hackable; it made everyone notice.”
-     - “Technically public and socially private are now different states.”
-     - “AI may become the accepted explanation for decisions already coming.”
-   - Do not combine multiple lessons in one post.
+   The event is the evidence. The post is the observation.
 
-4. **Draft short**
-   - Lead with the concrete news in one or two lines.
-   - Move quickly to the observation.
-   - Use short paragraphs and deliberate line breaks.
-   - End with the sharpest implication, not a question or CTA.
-   - Default to roughly 70–150 words. Go shorter when the contradiction already carries the post.
+3. **Choose one claim only.**
+   Do not turn one event into a list of lessons. Reduce the post to one sentence that could serve as its ending. Build only enough context to earn that sentence.
 
-5. **Tighten into the user’s voice**
-   - Remove corporate phrasing, motivational language, throat-clearing, and over-explanation.
-   - Prefer plain words, blunt transitions, and a slightly unfinished human rhythm.
-   - Preserve any line the user explicitly says they like; rebuild around it rather than paraphrasing it away.
-   - Read `references/voice-and-structure.md` when drafting or revising.
+4. **Draft in the user's voice.**
+   Read [references/voice.md](references/voice.md).
 
-6. **Design the image concept**
-   - Translate the post’s idea into one physical metaphor.
-   - Prefer realistic, minimal photography with no people, no stock-photo emotion, and no obvious cyber/AI clichés.
-   - Make the metaphor understandable without text, but subtle enough not to explain the post.
-   - Read `references/image-direction.md` before proposing or generating an image.
+5. **Refine by subtraction.**
+   - Remove generic setup, corporate phrasing, repeated explanation, and forced moralizing.
+   - Keep the factual hook explicit enough that a reader understands the scoop without opening a link.
+   - Preserve the line or section the user says they like. Revise around it instead of replacing the whole post.
 
-## Idea generation
+6. **Design the image after the post is stable.**
+   Read [references/visuals.md](references/visuals.md).
 
-When asked for more post ideas:
+## Research behavior
 
-- Search recent news first.
-- Return only stories with a strong second-layer observation.
-- For each idea provide:
-  1. the factual event,
-  2. the deeper angle,
-  3. one possible opening or ending.
-- Rank the ideas by fit for the user, not by headline importance.
-- Avoid repeating the same emotional theme across consecutive posts.
+Read [references/research.md](references/research.md) when discovering recent stories, validating a specific claim, or connecting multiple announcements.
 
-Useful event patterns:
+When proposing post ideas:
+- Offer only stories with a real second-layer insight.
+- Rank them by strength, not by volume.
+- Explain the underlying angle in one or two sentences.
+- Avoid generic newsjacking.
+- Prefer developments that connect naturally to the user's real expertise in engineering, AI agents, infrastructure, security, observability, governance, and autonomous remediation.
 
-- A person leaving after a long attachment
-- A security incident followed by unusual transparency
-- A product being retired despite active users
-- A supposedly private surface becoming discoverable
-- A company invoking AI during restructuring
-- A law or control mechanism appearing after a technology becomes powerful
-- An outage revealing that a tool has become infrastructure
-- A convenience feature being replaced by explicit permission
+When a story depends on who joined, left, launched, or was absent from an initiative, verify the current state and the launch state separately.
 
-## Drafting rules
+## Draft shape
 
-- State the scoop clearly enough that a reader does not need prior context.
-- Preserve nuance such as “shared publicly” versus “leaked.”
-- Use exact quotations only when verified and genuinely load-bearing.
-- Avoid hashtags unless explicitly requested.
-- Avoid emojis.
-- Avoid “Here’s the lesson,” “This is a reminder,” and “What do you think?”
-- Avoid generic claims that sound profound but are not earned by the event.
-- Do not praise a company when the real point is the behavior.
-- Do not force every post into relationships or personal growth.
-- Do not add a CTA merely because the platform is LinkedIn.
+Use this default structure, but do not force every section:
+
+1. Concrete event or surprising fact.
+2. One clarifying sentence that prevents a misleading interpretation.
+3. Short adjacent lines or a compact list that sharpens the contrast.
+4. Broader observation.
+5. A final line that lands without explaining itself.
+
+Keep most posts around 80-180 words. Go shorter when the contradiction is strong enough.
+
+## Paragraph rhythm
+
+The user prefers grouped short lines, not a blank line after every sentence.
+
+Use blank lines to separate ideas, not every line. Adjacent fragments can form a paragraph:
+
+```text
+It does not tell us whether:
+
+the product got better
+the system became simpler
+the code became safer
+or the next engineer will understand it six months from now
+```
+
+Avoid dense traditional paragraphs, but also avoid the exaggerated LinkedIn style where every sentence floats alone.
+
+## Voice rules
+
+- Be direct, observational, and slightly uncomfortable.
+- Sound like a technically informed person noticing a pattern, not a content marketer teaching a lesson.
+- Use simple words and short sentences.
+- Let the reader make part of the connection.
+- Prefer statements over rhetorical questions.
+- Use first person sparingly, usually as “I think” or “I wonder” when genuine uncertainty matters.
+- Do not add hashtags, engagement questions, calls to action, emojis, or a summary lesson.
+- Do not praise brands excessively. Praise a behavior, decision, or pattern.
+- Do not make every post about fear. Vary the underlying truth: maturity, trust, economics, ownership, maintenance, attention, or dependency.
 
 ## Revision behavior
 
-When the user dislikes a draft:
+Interpret feedback precisely:
+- “Too long” means remove ideas, not merely compress sentences.
+- “Doesn’t sound like me” means reduce polish, abstraction, and explanatory language.
+- “More paragraph-like” means group adjacent lines by idea while preserving short sentence rhythm.
+- “I like this part” means treat that passage as fixed unless the user explicitly asks to change it.
+- “The image is wrong” means re-evaluate the metaphor, not just restyle the same scene.
 
-- Identify the line or idea they liked.
-- Keep that exact anchor when possible.
-- Make the next version materially shorter or structurally different.
-- Do not defend the previous draft.
-- If they say “does not sound like me,” reduce polish before changing the underlying opinion.
+Offer one best revision first. Provide alternatives only when they express genuinely different angles.
 
-## Image generation handoff
+## Image direction
 
-When the user says “go,” “generate it,” or equivalent after approving an image concept:
+The image should express the deeper idea without illustrating the post literally.
 
-- Generate the image immediately.
-- Use realistic editorial photography.
-- Prefer a restrained palette, natural or cinematic lighting, and one obvious focal object.
-- Avoid written text inside the image unless it is essential and short.
-- If text is essential, verify spelling and semantic accuracy.
+Prefer:
+- a physical scene with one clear metaphor
+- realistic architectural or documentary photography
+- subtle tension rather than drama
+- neutral or slightly warm/cool cinematic lighting
+- no logos, UI mockups, hacker clichés, robots, floating code, or large text
+- no explanatory caption inside the image unless the scene depends on a small natural label
 
-## Output shape
+Before generating, describe the metaphor and why it maps to the post. If the user says “go,” generate directly.
 
-For a finished draft, provide the post as the primary artifact with only a brief framing sentence.
+## Quality check
 
-For an image recommendation, give one best concept first and one backup only when useful.
+Before returning a final draft, confirm:
+- The factual hook is accurate and understandable.
+- The post contains one central idea.
+- The interpretation is clearly an opinion, not disguised fact.
+- The ending is earned and not repeated earlier.
+- The spacing feels like grouped thoughts rather than one sentence per paragraph.
+- The image metaphor matches the whole argument, not one minor detail.
