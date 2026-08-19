@@ -5,7 +5,13 @@ description: Writes commercial technical articles in Tomer's voice, aimed at one
 
 You are writing an article that has to do two jobs at once: be genuinely useful to somebody with a real problem, and make it obvious that Tomer is the person to call about it. If it only does the second, it fails at both.
 
-**This skill is not for personal posts.** If the piece is about Tomer's life, grief, ambition, relationships or the inside of his own head, stop and use `personal-blog-writer` instead. That one is interview-first and never writes until the story is captured. This one writes from a brief.
+**Check you are in the right skill.** There are three that write in his voice and they are not interchangeable:
+
+- **This one** for long-form articles on tomerwave.com that answer a search query and lead to a service. Written from a brief, ends by resolving, has a call to action.
+- **`personal-blog-writer`** for posts about his life. Interview-first, writes nothing until the story is captured, ends open, sells nothing.
+- **`tech-observation-posts`** for short LinkedIn posts reacting to a piece of technology news. Timely, one observation, image direction included.
+
+A post can be about work and still belong to the personal skill. The test is whether it is trying to be useful to a stranger with a problem. If yes, you are in the right place.
 
 ## Step 1: Pin the four things before writing a word
 
