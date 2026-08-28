@@ -128,6 +128,19 @@ Identical pipeline to `tomerwave-pdf` — same Playwright-from-inside-the-repo c
 
 **Verify every slide, not just the ones you touched.** A change to shared CSS (the bullet reset, an accent-border side, a page-number position) can silently break a slide type you didn't think you were editing this round — screenshot all of them before calling a revision done, the same discipline `tomerwave-pdf` uses for RTL checks.
 
+**Verify the PDF actually contains vector text, not a stitched screenshot.** If the sandbox you're running in blocks a real headless-Chromium PDF export (`page.pdf()` throwing, or Playwright/Chromium launch failing), it's tempting to fall back to screenshotting each slide as a PNG and wrapping those images into a PDF instead — this produces a file that looks right in a quick glance and has the correct page count, but is actually a flat 1280×720 raster per page with zero embedded fonts. It reads as visibly softer than a real vector export (text loses crispness at any zoom), and it's roughly 3× the file size for no benefit. Confirm before handing off:
+
+```bash
+python3 -c "
+data = open('<file>.pdf','rb').read()
+assert b'/Font' in data, 'no embedded fonts — this is a rasterized screenshot PDF, not a real export'
+assert data.count(b'/Subtype/Image') < <slide_count>, 'one image per page — same problem'
+print('ok: real vector text')
+"
+```
+
+If your own environment can't produce a real export (sandbox-blocked Chromium, no `~/Downloads` write access), say so plainly rather than silently shipping the degraded fallback — a full-fidelity render from the same authored HTML, run from an environment without those restrictions, takes seconds once the HTML exists.
+
 ## Where the output goes
 
 Same as `tomerwave-pdf`: `~/Downloads/`, named clearly, nothing committed to the tomerwave.com repo unless explicitly asked.
