@@ -121,6 +121,18 @@ Must:
 
 Fail if: learning becomes `never use this exact sentence` without understanding why.
 
+## Test 11 - Consulting vs product ambiguity
+
+Context: a nonprofit CEO receives an email about messy processes, systems, automation and possible AI. Tomer is offering technology consulting, not a software product.
+
+Must:
+- make the operational observation concrete
+- make Tomer's consulting/advisory role understandable early enough
+- describe the motion as understanding the process before choosing a solution
+- avoid a defensive `I am not selling software` opening unless correcting an existing misunderstanding
+
+Fail if: a reasonable reader could respond `we already use AI tools/software` because the message sounds like a product pitch.
+
 ## Scoring rubric
 
 Score 0-2 each:

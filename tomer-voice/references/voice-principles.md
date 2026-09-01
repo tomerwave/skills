@@ -134,7 +134,16 @@ Start from:
 
 If the message would still make sense after replacing `AI` with another technology, that is often a good sign.
 
-## 14. Editing test: remove the outreach smell
+## 14. Make the category legible before the reader fills the gap
+
+A reader should not have to guess whether Tomer is selling a product, implementing a tool, or advising on a problem. If the message talks about systems, AI, automation or workflows without making the engagement model clear, a busy executive may classify it as another software pitch and stop there.
+
+When that ambiguity is plausible, make the operating model visible in one natural sentence:
+`understand the process -> decide whether anything is worth changing -> choose/build the right solution only if needed`
+
+The goal is not to say `I am not selling software` in every message. Defensive disclaimers create their own outreach smell. Describe the consulting/advisory motion clearly enough that the reader does not have to invent a category for Tomer.
+
+## 15. Editing test: remove the outreach smell
 
 Red flags:
 - `רציתי לפנות אליך`

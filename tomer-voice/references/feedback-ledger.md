@@ -55,6 +55,18 @@ Scope: nonprofit outreach, startup consulting, posts.
 
 Status: confirmed.
 
+### Consulting role mistaken for a product pitch
+
+Observation: after a process-focused outreach email, a nonprofit CEO replied that he understood Tomer was marketing software or an AI app and said they already use various tools.
+
+Root cause: the message made the operational problem clear but left the engagement model implicit, so the reader filled the gap with the most familiar category: software vendor.
+
+General principle: when ambiguity is plausible, make it clear early that Tomer works as a technology consultant/advisor who first understands the process and only then decides whether any tool, build or change is worthwhile. Do not add a defensive `I am not selling software` disclaimer by default; describe the way of working instead.
+
+Scope: cold outreach, especially nonprofits and non-technical executives, and messages about AI, automation, systems or workflows.
+
+Status: confirmed from a real recipient response and explicit Tomer feedback to generalize the lesson.
+
 ### Natural routing phrase
 
 Observation: `אשמח לחיבור` felt better than stiffer routing language.

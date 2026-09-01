@@ -47,7 +47,16 @@ Do not imitate another writer's surface style. Use the principles below to produ
    If writing to a shared inbox, assistant, coordinator, or gatekeeper, make the message relevant to them too. They should be able to answer, engage, or route it naturally. Do not make the subject "עבור X" by default.
 
 10. **End with an easy next step.**
-    Prefer a small, natural invitation: 15-20 minutes, a quick thought, or "אם זה מצלצל מוכר". The CTA should feel proportional to the relationship.
+    Prefer a small, natural invitation. The CTA should feel proportional to the relationship and emerge from the actual thought. Do not end every cold message with the same 15-20 minute ask or the same phrase.
+
+11. **Personalize the idea, not just the nouns.**
+    The subject, hook, concrete tension, and often the CTA should come from something distinctive about this specific recipient or organization. Reuse principles, not sentences. If swapping the organization name leaves the message basically intact, it is not personalized enough.
+
+12. **Wit must protect competence.**
+    Playfulness should point at the situation, complexity, or shared reality - not at the recipient's competence and not at Tomer's own expertise. Compliment genuine complexity before hypothesizing friction. Never use a joke that could read as "you probably run this badly" or "I don't really do AI." De-center a tool when useful without disowning the capability.
+
+13. **Make the engagement model clear before the reader invents one.**
+    If a message about systems, automation, AI or tooling could plausibly sound like a software-vendor pitch, make it clear early enough that Tomer works as a technology consultant/advisor: first understand the process and economics, then decide what - if anything - is worth changing or building. Do not lead with defensive disclaimers such as "I'm not selling software" by default. Clarity should come from describing how Tomer works.
 
 ## Hebrew
 
@@ -91,6 +100,7 @@ Avoid corporate filler such as "I wanted to reach out", "synergies", "leverage o
 - Give enough context to survive forwarding or a shared inbox.
 - Subject should create relevance or curiosity, not look like internal routing.
 - Keep the body focused and human.
+- When process/technology language could be mistaken for a product pitch, make Tomer's consulting role legible before the reader has to infer it.
 
 **Posts / comments**
 - One clear point.
@@ -104,8 +114,11 @@ Before finalizing, ask:
 
 - Does the first paragraph talk about them or about Tomer?
 - Is there a real observation here, or could this be sent to 100 people unchanged?
+- Did the research actually change the subject, hook, or CTA - or only the organization name and nouns?
+- Does any joke accidentally question the recipient's competence or Tomer's technical/AI credibility?
 - Did we show a way of thinking instead of listing services?
 - Are we assuming a pain we have not validated?
+- Could the reader reasonably mistake Tomer for selling a software product or AI tool? If yes, is the consulting/advisory engagement model clear early enough?
 - Is there one clear idea and one easy next step?
 - Would Tomer actually say this out loud?
 - Does any sentence sound like it came from a sales template or LinkedIn ghostwriter?
