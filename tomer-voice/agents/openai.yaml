@@ -1,0 +1,15 @@
+interface:
+  display_name: tomer voice
+  short_description: Use when writing or revising outward-facing communication for
+    Tomer, including LinkedIn outreach and posts, WhatsApp, email, comments, follow-ups,
+    introductions, and English equivalents. Do not use for formal proposals, decks,
+    or professional documents unless explicitly requested.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
