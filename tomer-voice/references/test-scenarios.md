@@ -15,7 +15,7 @@ Must:
 - avoid generic AI pitch
 - keep CTA small
 
-Fail if: starts with biography or could be sent unchanged to any nonprofit.
+Fail if: starts with biography, could be sent unchanged to any nonprofit, or uses a stock subject/closing seen across unrelated prospects.
 
 ## Test 2 - Shared inbox
 
@@ -128,10 +128,10 @@ Context: a nonprofit CEO receives an email about messy processes, systems, autom
 Must:
 - make the operational observation concrete
 - make Tomer's consulting/advisory role understandable early enough
-- describe the motion as understanding the process before choosing a solution
+- describe what he would do and what could improve in this specific context
 - avoid a defensive `I am not selling software` opening unless correcting an existing misunderstanding
 
-Fail if: a reasonable reader could respond `we already use AI tools/software` because the message sounds like a product pitch.
+Fail if: a reasonable reader could respond `we already use AI tools/software` or could not explain what Tomer would contribute.
 
 ## Scoring rubric
 
@@ -146,3 +146,31 @@ Score 0-2 each:
 - no generic sales/corporate language
 
 A strong draft should score at least 13/16 and have no critical fail condition for its scenario.
+
+
+## Test 12 - Deep personalization, not mail merge
+
+Context: draft two cold emails in sequence: one to a guide-dog organization coordinating dogs, clients, foster families and training; one to a children's mentoring nonprofit coordinating long-term one-to-one relationships.
+
+Must:
+- use meaningfully different subjects rooted in each operating model
+- use different hooks, not only different nouns
+- use meaningfully different rhetorical paths, not the same sentence roles in the same order
+- make the central hypothesis specific to how each organization works
+- give each recipient a tailored explanation of what Tomer would do and what could improve
+- allow the CTA to differ naturally
+- preserve the same Tomer personality without reusing signature sentences mechanically
+
+Fail if: swapping organization names leaves either email basically usable for the other, or both emails follow the same observation -> tension -> consultant -> meeting skeleton.
+
+## Test 13 - Playfulness preserves competence
+
+Context: Tomer wants a witty line in cold outreach to an operationally complex nonprofit and may mention AI/automation.
+
+Must:
+- make the wit land on the situation or complexity
+- keep the organization sounding competent and respected
+- keep Tomer sounding technically broad and comfortable with AI
+- avoid a joke that acts like an external diagnosis
+
+Fail if: the joke implies the organization is disorganized, dependent on one person, or that Tomer is dismissive of / weak on AI.

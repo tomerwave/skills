@@ -50,13 +50,13 @@ Do not imitate another writer's surface style. Use the principles below to produ
     Prefer a small, natural invitation. The CTA should feel proportional to the relationship and emerge from the actual thought. Do not end every cold message with the same 15-20 minute ask or the same phrase.
 
 11. **Personalize the idea, not just the nouns.**
-    The subject, hook, concrete tension, and often the CTA should come from something distinctive about this specific recipient or organization. Reuse principles, not sentences. If swapping the organization name leaves the message basically intact, it is not personalized enough.
+    The subject, hook, concrete tension, rhetorical path, and often the CTA should come from something distinctive about this specific recipient or organization. Reuse principles, not sentences or structures. If swapping the organization name leaves the message basically intact, it is not personalized enough.
 
 12. **Wit must protect competence.**
     Playfulness should point at the situation, complexity, or shared reality - not at the recipient's competence and not at Tomer's own expertise. Compliment genuine complexity before hypothesizing friction. Never use a joke that could read as "you probably run this badly" or "I don't really do AI." De-center a tool when useful without disowning the capability.
 
-13. **Make the engagement model clear before the reader invents one.**
-    If a message about systems, automation, AI or tooling could plausibly sound like a software-vendor pitch, make it clear early enough that Tomer works as a technology consultant/advisor: first understand the process and economics, then decide what - if anything - is worth changing or building. Do not lead with defensive disclaimers such as "I'm not selling software" by default. Clarity should come from describing how Tomer works.
+13. **Make Tomer's contribution legible and specific.**
+    After the recipient-specific idea, include one tailored sentence that makes clear why Tomer is contacting them, what he can do in practice, and what could improve because of it. Do not paste the same generic services sentence across a batch. If systems, automation or AI could sound like a software-vendor pitch, explain Tomer's consulting motion: understand the process and economics first, then decide what - if anything - is worth changing or building.
 
 ## Hebrew
 
@@ -100,7 +100,7 @@ Avoid corporate filler such as "I wanted to reach out", "synergies", "leverage o
 - Give enough context to survive forwarding or a shared inbox.
 - Subject should create relevance or curiosity, not look like internal routing.
 - Keep the body focused and human.
-- When process/technology language could be mistaken for a product pitch, make Tomer's consulting role legible before the reader has to infer it.
+- Before saving a batch, compare the drafts side by side. If several use the same sequence, sentence roles, or CTA with different nouns, rewrite at least one from a different entry point.
 
 **Posts / comments**
 - One clear point.
@@ -115,10 +115,12 @@ Before finalizing, ask:
 - Does the first paragraph talk about them or about Tomer?
 - Is there a real observation here, or could this be sent to 100 people unchanged?
 - Did the research actually change the subject, hook, or CTA - or only the organization name and nouns?
+- Compared with the other drafts in this batch, does this message have its own rhetorical path rather than the same skeleton?
 - Does any joke accidentally question the recipient's competence or Tomer's technical/AI credibility?
 - Did we show a way of thinking instead of listing services?
 - Are we assuming a pain we have not validated?
-- Could the reader reasonably mistake Tomer for selling a software product or AI tool? If yes, is the consulting/advisory engagement model clear early enough?
+- After one read, can the recipient explain what Tomer does here, why he contacted them, and what practical change he could help create?
+- Could the reader reasonably mistake Tomer for selling a software product or AI tool? If yes, make the consulting/advisory engagement model clear without a defensive disclaimer.
 - Is there one clear idea and one easy next step?
 - Would Tomer actually say this out loud?
 - Does any sentence sound like it came from a sales template or LinkedIn ghostwriter?
@@ -162,19 +164,19 @@ Template-like version:
 
 > היי, מה שלומכם? אני תומר, מגיע מרקע של R&D, אוטומציה והובלת מערכות, והיום עובד עם ארגונים סביב תהליכים וטכנולוגיה. אני בדרך כלל נכנס למקומות שבהם יש תהליכים שחוזרים על עצמם...
 
-Tomer Voice:
+Tomer Voice example - use the principles, not its wording or structure:
 
-> היי, מה קורה?
+> היי קרין,
 >
-> עברתי קצת על איך שאתם עובדים ויש לכם שילוב די קשוח - הרבה אנשים, מערכות ומידע שצריך לזוז בין השטח למטה וחזרה.
+> ראיתי שאתם כבר משתמשים ב-AI כדי למצוא רגעים משמעותיים בתוך עדויות ארוכות.
 >
-> הניחוש שלי? איפשהו באמצע יש כמה דברים שמוחזקים על אקסלים, וואטסאפ ואנשים שפשוט יודעים מה צריך לקרות.
+> ומה שמסקרן אותי הוא דווקא מה שקורה אחר כך: איך אותו רגע נשאר מחובר להקשר כשהוא עובר דרך הכשרת מתנדב ועד הסלון שבו הוא מסופר.
 >
-> יכול להיות שאני לגמרי טועה.
+> אני יועץ טכנולוגי, ובמקרה הזה אני יכול לעזור למפות את הרצף בין האנשים, המידע והמערכות, ואז לתכנן ולבנות רק את התשתית שבאמת תומכת בו בלי למחוק את החלק האנושי.
 >
-> אם זה מצלצל מוכר, אשמח ל-20 דקות להבין איך זה באמת נראה אצלכם.
+> אם זו שאלה שיושבת אצלך עכשיו, אשמח לדבר.
 
-The second version works because it begins with observation, creates a concrete hypothesis, leaves room to be wrong, and invites conversation before selling a solution.
+The second version works because the research changes the idea of the message, Tomer's practical contribution is clear, and the invitation follows from that exact tension.
 
 ## Regression scenarios
 

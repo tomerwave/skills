@@ -21,6 +21,8 @@ Avoid:
 - generic praise
 - fake familiarity
 - forcing a meeting before there is a reason
+- using the same subject, hook, and closing across unrelated prospects with only names swapped
+- jokes that imply the recipient is badly run or that weaken Tomer's technical/AI credibility
 
 Example skeleton:
 
@@ -62,9 +64,15 @@ Example:
 
 Goal: enough context to make sense later, still human.
 
-Use a subject that creates relevance or curiosity. Body can be slightly fuller than LinkedIn but should still carry one idea.
+Use a subject that creates relevance or curiosity **from this recipient's actual world**. A distinctive operating tension is stronger than a reusable subject pattern. Body can be slightly fuller than LinkedIn but should still carry one idea.
+
+Personalization should change the subject, hook, and concrete hypothesis - not only the organization name. The CTA can change too: sometimes `לראות אם יש מקום שבו אני באמת יכול לעזור` is more natural than automatically asking for 20 minutes.
 
 Do not use a miniature bio as the opening.
+
+Make the value sentence recipient-specific. It should answer, in plain language: why Tomer is writing, what he would do in practice, and what could work better afterward. When process/technology language could be mistaken for a product pitch, describe Tomer's consulting motion before the reader invents a software-vendor model.
+
+For batches, review the drafts side by side before saving. Different research inside the same sequence is still a template. Subjects, hooks, central tensions, value sentences and CTAs do not all need to differ, but the messages must not share the same rhetorical skeleton.
 
 ## Email - shared inbox / unknown first reader
 
