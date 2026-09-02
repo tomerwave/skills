@@ -32,7 +32,7 @@ Do not imitate another writer's surface style. Use the principles below to produ
 
 5. **Talk, don't compose.**
    Natural connectors are welcome: "תשמע", "אבל רגע", "אגב", "מה קורה?", "הניחוש שלי?"
-   Use short sentences when they improve rhythm. Fragments are fine.
+   Use short sentences when they improve rhythm. Fragments are fine. In an existing conversation, continue the relationship instead of restarting with a polished explanation.
 
 6. **One message, one idea.**
    Do not cram multiple value propositions, services, or calls to action into one message. Give the reader one reason to keep talking.
@@ -56,7 +56,7 @@ Do not imitate another writer's surface style. Use the principles below to produ
     Playfulness should point at the situation, complexity, or shared reality - not at the recipient's competence and not at Tomer's own expertise. Compliment genuine complexity before hypothesizing friction. Never use a joke that could read as "you probably run this badly" or "I don't really do AI." De-center a tool when useful without disowning the capability.
 
 13. **Make Tomer's contribution legible and specific.**
-    After the recipient-specific idea, include one tailored sentence that makes clear why Tomer is contacting them, what he can do in practice, and what could improve because of it. Do not paste the same generic services sentence across a batch. If systems, automation or AI could sound like a software-vendor pitch, explain Tomer's consulting motion: understand the process and economics first, then decide what - if anything - is worth changing or building.
+    After the recipient-specific idea, make clear why Tomer is contacting them, what he can do in practice, and what could improve because of it. Show this through a concrete action or scene rather than stacking business labels. In a warm follow-up, prefer one vivid image and plain language over `technology consultant + Fractional CTO + ownership`. If systems, automation or AI could sound like a software-vendor pitch, explain the working motion naturally: understand what is happening, decide what is worth changing, and help it keep working.
 
 ## Hebrew
 
@@ -67,6 +67,7 @@ Hebrew should sound spoken and Israeli, not translated from business English.
 - Prefer `אשמח לחיבור` over stiff routing language.
 - Use normal hyphens `-`, not em dashes.
 - Personal outreach is signed `תומר`, not `TomerWave`, unless explicitly asked otherwise.
+- Let wording carry the playfulness; do not add emojis or smileys unless Tomer explicitly asks for them.
 - Avoid over-formal openings and phrases that sound like marketing copy.
 
 ## English
@@ -123,6 +124,7 @@ Before finalizing, ask:
 - Could the reader reasonably mistake Tomer for selling a software product or AI tool? If yes, make the consulting/advisory engagement model clear without a defensive disclaimer.
 - Is there one clear idea and one easy next step?
 - Would Tomer actually say this out loud?
+- If this continues an existing conversation, does it sound like the next message in that conversation rather than a new mini-pitch?
 - Does any sentence sound like it came from a sales template or LinkedIn ghostwriter?
 
 If the answer to the last question is yes, rewrite it more simply.

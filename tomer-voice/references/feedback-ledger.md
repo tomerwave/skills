@@ -152,6 +152,18 @@ Scope: cold outreach and follow-ups.
 
 Status: confirmed.
 
+### Value clarity must not erase warmth
+
+Observation: a LinkedIn follow-up became clear but still felt formal and repetitive, using phrases such as `the natural connection`, `ownership layer`, and multiple business titles.
+
+Root cause: the draft tried to prove value through professional labels and a complete consulting explanation instead of continuing the friendly conversation.
+
+General principle: in an existing conversation, make value clear through one concrete scene and the actions Tomer would take. Let a small realization or playful image carry the message. Use at most one role label when needed, and do not reset a warm thread into a miniature pitch.
+
+Scope: LinkedIn and WhatsApp follow-ups, warm intros, replies after a real response.
+
+Status: confirmed by repeated explicit Tomer feedback.
+
 ## Candidate lessons - require more evidence before becoming core rules
 
 - Exact humor density by channel (the placement principle is confirmed; amount still needs evidence).

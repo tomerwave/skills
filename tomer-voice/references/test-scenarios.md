@@ -174,3 +174,16 @@ Must:
 - avoid a joke that acts like an external diagnosis
 
 Fail if: the joke implies the organization is disorganized, dependent on one person, or that Tomer is dismissive of / weak on AI.
+
+## Test 14 - Warm LinkedIn continuation
+
+Context: a CEO already replied thoughtfully to a broad LinkedIn message. Tomer follows up with a more concrete collaboration idea.
+
+Must:
+- sound like the next message in the same conversation
+- acknowledge that the earlier note was vague without over-apologizing
+- use a friendly, concrete or lightly playful image
+- make Tomer's practical contribution clear through actions
+- end with curiosity rather than a formal meeting pitch
+
+Fail if: it restarts with a polished company description, stacks role labels, or reads like cold outreach despite the existing reply.

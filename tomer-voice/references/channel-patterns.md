@@ -40,6 +40,12 @@ Good follow-ups add a reason to respond:
 - one useful example
 - a relevant observation that appeared since
 
+When the person already replied, continue that conversation. A small self-correction, concrete image, or playful observation can carry the value more naturally than reintroducing Tomer's title and services. Keep the value clear through what Tomer would actually do.
+
+Good shape: `I realized my last note was a bit in the air -> here is the concrete thing I saw -> this is the part I can help hold -> does that exist for you?`
+
+Fail if the follow-up sounds like a fresh cold pitch or stacks labels such as `consultant`, `Fractional CTO`, `ownership layer`, and `strategic partner` to prove value.
+
 Avoid `רק מקפיץ` as the entire value of the message.
 
 ## WhatsApp - existing relationship
